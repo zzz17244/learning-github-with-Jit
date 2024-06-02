@@ -1,0 +1,14 @@
+/* src/components/Header.css */
+header {
+    
+     background-color: #5677b7;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  h1 {
+    padding-top: 1cm ;
+    font-size: 2.5rem;
+  }
+  
